@@ -17,4 +17,4 @@ Running the project
 
 Project Developer
 ----------------
-Sajal Agrawal
+Dolly Prajapati 
